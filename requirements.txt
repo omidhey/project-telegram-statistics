@@ -7,3 +7,4 @@ pyvis==0.1.9
 demoji==1.1.0
 numpy==1.21.4
 Pillow==8.4.0
+tqdm==4.62.3
